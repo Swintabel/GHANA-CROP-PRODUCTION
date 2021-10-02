@@ -1,4 +1,5 @@
-# GHANA-CROP-PRODUCTION
+<img src="CROP.PNG" style="float:center;width:900px;">
+<p style="text-align:justify;">
 
 ### 1.1 Problem Statement <a id='ps'></a>
 
