@@ -2,7 +2,7 @@
 <p style="text-align:justify;">
 
 #### [Project Document in Ipython Notebook](https://github.com/Swintabel/GHANA-CROP-PRODUCTION/blob/main/CROP%20PRODUCTION.ipynb)
-#### [Tableau Dashboard](https://github.com/Swintabel/GHANA-CROP-PRODUCTION/blob/main/CROP%20PRODUCTION.ipynb)
+#### [Tableau Dashboard](https://public.tableau.com/views/GHANACROPPRODUCTIONDASHBOARD/CROPPRODUCTIONDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### 1.1 Problem Statement <a id='ps'></a>
 
